@@ -8,5 +8,5 @@ let anagram =( str1, str2)=> {
     }
     else return false
 }
-// anagram('monk', 'know')
+
 console.log(anagram('Mary', 'Army'))
